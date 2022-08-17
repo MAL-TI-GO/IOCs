@@ -1,0 +1,24 @@
+Hashes (MD5):
+96ec3c5adf2b6ffcc148c79e98a8eec0 (Redline - thunderbird-setup.exe)
+12735f8b6c62455c8e40193b5d36398c (AnyDesk ISO image - Redline)
+ee5c2ec0ec6d2b5b9c2396fb7513f83b (extracted Redline payload from AutoIt script)
+cb8603e18dca2737e3d96303ce11977d (Imagine.potm)
+eed2bf43d57a34bb01e3a313e780febb (Ritornata.potm)
+3139d6dc3c8632c9e8081339cf828d83 (Saputo.potm)
+
+Command Line execution:
+cmd /c cmd < Saputo.potm & ping -n 5 localhost
+tasklist /FI "imagename eq PSUAService.exe"
+find /I /N "psuaservice.exe" 
+findstr /V /R "^YbeRstbFtOUDIqBrtdMHJUtzjhOkoKZFTdVtvyDmPFkahUrGQWaXBcArzIFrfkvxPgKsybGZNhRtJLyalocksetbQRLOA$" Ritornata.potm
+Fino.exe.pif t
+cmd /c echo [InternetShortcut] > "C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\PJDKIgRDMm.url" & echo URL="C:\Users\user\AppData\Local\Temp\zqNDtAgMrV\Xtxsjgzcb.vbs" >> "C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\PJDKIgRDMm.url"
+schtasks.exe /create /tn "Puoi" /tr "C:\\Users\\user\\AppData\\Local\\Temp\\zqNDtAgMrV\\PJDKIgRDMm.exe.com C:\\Users\\user\\AppData\\Local\\Temp\\zqNDtAgMrV\\z" /sc minute /mo 3 /F
+C:\Windows\system32\rundll32.exe" C:\Windows\system32\advpack.dll,DelNodeRunDLL32 "C:\Users\user\AppData\Local\Temp\IXP000.TMP\
+C:\Users\user\AppData\Local\Temp\zqNDtAgMrV\PJDKIgRDMm.exe.com z
+C:\Users\user\AppData\Local\Temp\zqNDtAgMrV\PJDKIgRDMm.exe.com C:\Users\user\AppData\Local\Temp\zqNDtAgMrV\z 
+
+IPs 
+185.143.223.9 
+172.67.184.176
+91.243.32.244
